@@ -1,8 +1,0 @@
-{
-    "root":"delek",
-    "headers":{
-        "/**":{
-            "Access-Control-Allow-Origin":"*"
-        }
-    }
-}
